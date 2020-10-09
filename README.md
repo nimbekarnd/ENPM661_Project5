@@ -1,6 +1,17 @@
 # A Review of Search-Based Path Planning Algorithms for Indoor Navigation of UV Sterilization Robots
 
+Ultraviolet sterilization uses short wavelength ultraviolet-C (UVC), light for reduction of microorganisms
+that may remain on the different surfaces after a standard process of cleaning. Advancing technology has
+led to development of UV Sterilization Robots which can use this lights and clean highly contaminated
+rooms while reducing human contact with the infected surfaces.
+
+To increase the efficiency of these robots, we can study the existing path planning algorithms used in the
+UV Sterilization Robots and review the existing comparative study of well-known path planning algorithms
+to understand the advantages and disadvantages of the possible path planning techniques.
+
+
 Instructions for running the code:
+
 
 Unzip the submitted folder => "Output"
 We recommend you save the folder on desktop and to run the program using the terminal in linux.
