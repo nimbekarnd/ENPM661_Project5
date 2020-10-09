@@ -1,4 +1,4 @@
-# ENPM661_Project5
+# A Review of Search-Based Path Planning Algorithms for Indoor Navigation of UV Sterilization Robots
 
 Instructions for running the code:
 
